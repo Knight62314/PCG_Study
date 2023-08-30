@@ -1786,3 +1786,187 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.08.30-18.12.04:085][104]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
 [2023.08.30-18.12.04:085][104]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.WorldDataLayers
 [2023.08.30-18.12.04:085][104]LogContentValidation: Display: Validating /Script/Engine.World /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test
+[2023.08.30-18.13.04:600][500]LogDerivedDataCache: C:/Users/austi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.409 and deleted 0 files with total size 0 MiB. Scanned 12097 files in 11875 folders with total size 1130 MiB.
+[2023.08.30-18.14.20:921][916]LogContentBrowser: Deferred new asset file creation: NewPCGGraph
+[2023.08.30-18.14.20:928][916]LogContentBrowser: Creating deferred item: NewPCGGraph
+[2023.08.30-18.14.20:935][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewPCGGraph).
+[2023.08.30-18.14.27:813][727]LogContentBrowser: Attempting asset rename: NewPCGGraph -> PCG_Base
+[2023.08.30-18.14.27:813][727]LogContentBrowser: End creating deferred item NewPCGGraph
+[2023.08.30-18.14.37:174][791]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.30-18.14.37:174][791]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.30-18.14.37:175][791]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PlayerStart_0
+[2023.08.30-18.14.37:175][791]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.30-18.14.37:175][791]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PlayerStart_0
+[2023.08.30-18.14.37:175][791]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.30-18.14.37:585][833]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.30-18.14.37:585][833]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.30-18.14.37:588][833]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PlayerStart_UAID_D8BBC15792D26FA401_1245068879
+[2023.08.30-18.14.37:588][833]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.30-18.14.37:588][833]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PlayerStart_UAID_D8BBC15792D26FA401_1245068879
+[2023.08.30-18.14.37:588][833]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.30-18.14.45:236][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-18.14.45:242][670]LogContentBundle: [Container: PCG_Test] Generating Streaming for 0 Content Bundles.
+[2023.08.30-18.14.45:245][670]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-18.14.45:245][670]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-18.14.45:245][670]LogWorldPartition: Display: GetPartitionedActors took 27 us
+[2023.08.30-18.14.45:338][670]LogWorldPartition: Display: GenerateStreaming took 92 ms
+[2023.08.30-18.14.45:339][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-18.14.45:339][670]PIE: New page: PIE session: PCG_Test (Aug 30, 2023, 10:14:45 AM)
+[2023.08.30-18.14.45:343][670]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.08.30-18.14.45:343][670]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.30-18.14.45:343][670]LogPlayLevel: Creating play world package: /Game/Procedural_Maps/PCG/UEDPIE_0_PCG_Test
+[2023.08.30-18.14.45:352][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009489s)
+[2023.08.30-18.14.45:353][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test to /Game/Procedural_Maps/PCG/UEDPIE_0_PCG_Test.PCG_Test (0.009527s)
+[2023.08.30-18.14.45:353][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-18.14.45:353][670]LogAIModule: Creating AISystem for world PCG_Test
+[2023.08.30-18.14.45:354][670]LogWorldPartition: ULevel::OnLevelLoaded(PCG_Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.30-18.14.45:354][670]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-18.14.45:354][670]LogWorldPartition: UWorldPartition::Initialize(Asset=PCG_Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-18.14.45:356][670]LogContentBundle: [Container: PCG_Test] Creating new contrainer.
+[2023.08.30-18.14.45:356][670]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 841 ms)
+[2023.08.30-18.14.45:356][670]LogPlayLevel: PIE: World Init took: (0.003898s)
+[2023.08.30-18.14.45:368][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.30-18.14.45:369][670]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-18.14.45:369][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-18.14.45:369][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-18.14.45:369][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-18.14.45:369][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-18.14.45:369][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-18.14.45:371][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-18.14.45:387][670]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (G535 Wireless Gaming Headset)
+[2023.08.30-18.14.45:388][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-18.14.45:388][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-18.14.45:388][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-18.14.45:389][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.08.30-18.14.45:389][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.08.30-18.14.45:390][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.08.30-18.14.45:390][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.08.30-18.14.45:390][670]LogInit: FAudioDevice initialized.
+[2023.08.30-18.14.45:390][670]LogAudio: Display: Audio Device (ID: 2) registered with world 'PCG_Test'.
+[2023.08.30-18.14.45:394][670]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.08.30-18.14.45:395][670]LogWorld: Bringing World /Game/Procedural_Maps/PCG/UEDPIE_0_PCG_Test.PCG_Test up for play (max tick rate 0) at 2023.08.30-14.14.45
+[2023.08.30-18.14.45:395][670]LogWorld: Bringing up level for play took: 0.000502
+[2023.08.30-18.14.45:396][670]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.08.30-18.14.45:414][670]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2023.08.30-18.14.45:414][670]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(36), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-18.14.45:414][670]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-18.14.45:418][670]LogStreaming: Display: FlushAsyncLoading(-1): 36 QueuedPackages, 0 AsyncPackages
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/F/26/3ROTBDU15BU6GVUD3WASSF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/SC/PK9CW1VMB5IR2CA0R3N48O.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/H0/5NERTFF20YN0EO5QL5TW2D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/27/8UFPRL6GCP6W2Z4HPL7VX4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/C/QC/FYOSXGRZRE90GSUFEQ0ETD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/C/IR/8WT7WHPUKQXNO41OUZ9BGN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/C/5B/3O05SI18DSGAKW7MPBWQZ7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/C/3N/GWJHQRB24359FAX9GGM9M7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/RN/NENLOGBK34BGLICI1UTEW4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/MD/X6TVAUHQE0843MTHGITM38.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/M5/VUZBEULE5CMOZFQCM8ABY5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:652][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/IK/QS8NUP643MTI2G2PF669FA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/GS/C9PV4HEQODRYPRDN6HP1GV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/9V/81WNP3ACU2V06DUSSMO83J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/71/6AEID4W2XVXS8T4FUXE7HA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/3J/U5GUWYYI8Z4UJWR0V5C0EE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/ZX/JENADJK9697D6KKEA0XO2H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/RO/ER371YG48VD009RP0WG2BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/DL/R9KY2UTM2371SGW0XZ5QY1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/AH/CI7I17LALACY24332I8C8U.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/9/WZ/D1WZSWX3QTID68CYFF7UTB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/9/F7/UN4KDDZ8LQH6LT6O13AZ0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/9/7V/LO6KGM8MRCYNRS1KKFWM45.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/9/3N/UXS3L6F6ZYUQ2S7R2DNQKZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/W4/HLYO5JY3TP8I3QTJY12JWI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/G2/891Z8KSAUE7TOCEIAT6NL1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/00/5CTTC8NIR5QYYENZMUPH7X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/7/S2/HRXKVDWN5I21ZW4I2HWWCN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/7/P8/YXADYDTP0TC6L8I1L6RY6I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/7/NA/SYKTDRM309QIG3ODBX4OYR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/7/FX/H0O4BNYZLND3LNCTEY3JQA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/7/9B/A75IM85DIXHPU48YSIDGMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/Z4/8BKY4IW7UIU7ZIDT7D5VT4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/YM/5WGVXR0BT790F5NK8J557Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/PQ/EHWWS7524E3FD3OT76CLYF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/IH/H1L36BM4KTBW2KVFR6KBIB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/HH/ULFI4IXH4IL354PQ2WRSCE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/4L/ODK1TWLHGTFQMVSMT16AB3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/YZ/LVJWFZ99U50DFSEGGBUWPB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/RB/7LV2OX6LEAXTX4DIY90DSG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/D6/TJ6MN8T1EINARN9G87IHFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/CH/Q098FYV6B9QNG5BM3135Z0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/B4/24KGCLHM2H4B95VNSVGNQK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/63/GSBVI6IUELKO4J2NC3NOO3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/1M/8EDV3JHUDYOGW400IFKMY1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/4/IA/7YCZM6RFFDNX2YT2YP8PTC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/4/A4/5DN5AV8SG5RQU2MVP367LT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/3/UR/JTVMPYTD3EIXDKCFC27194.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/3/QG/3HODE1LDHW7YSPLCKIOEN4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/3/OA/KHO1K7M42B8H6HUOEDOXOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/3/H0/ACSSKW659ER0TMG6AXQ5C6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/3/B5/WNTUGYLM8GH95FAKCOTK5I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/2/UU/2KV20BZ2HTYTCFUGEDTESK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/2/L1/185K9Z8PW5ZZDZSIWLAFCN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/2/EA/GFKB2JRY6VTJ1WUXTPME56.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/2/A9/JNG4EIKW1W8NEUGW8400QX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/2/2W/AOGT5VSKPKD3NSREGPEI82.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/1/U3/3P9PF2N8C8YH9CAGZO6Q8W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/1/NX/6GEU4QDM5I1RFK3M4U7FL6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:653][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/1/L9/23Q3QIEAARSZMIGYPHE6KQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:654][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/0/PF/9ETS2YC8WGIWZ4DRKKO094.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:654][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/0/CR/GC4SJ3F7MQFX3MRBLRJXR7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:654][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/0/8R/VUHKX8HE19CFL6LV0L4Q6B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:654][670]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/0/4C/L5TC8D0K929DGENLB9OG2G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: ================================================
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: Total job queries 154, among them cache hits 30 (19.48%)
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 101 distinct outputs (81.45%)
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: RAM used: 1.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.30-18.14.45:693][670]LogShaderCompilers: Display: ================================================
+[2023.08.30-18.14.45:788][670]PIE: Server logged in
+[2023.08.30-18.14.45:789][670]PIE: Play in editor total start time 0.547 seconds.
+[2023.08.30-18.14.46:097][672]LogTexture: Display: Waiting for textures to be ready 0/24 (/Memory/UEDPIE_0_MainGrid_L0_X-4_Y0_DL0_InstanceOf_/Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/MB/3IOJ03A40NTBBQM00JULR4) ...
+[2023.08.30-18.14.47:822][672]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.08.30-18.14.47:836][672]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X-4_Y-1_DL0 took (less than) 1756.00 ms
+[2023.08.30-18.14.48:362][721]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.08.30-18.14.48:830][775]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.08.30-18.14.48:932][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-18.14.48:932][782]LogWorld: BeginTearingDown for /Game/Procedural_Maps/PCG/UEDPIE_0_PCG_Test
+[2023.08.30-18.14.48:950][782]LogWorld: UWorld::CleanupWorld for PCG_Test, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-18.14.48:950][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-18.14.48:950][782]LogContentBundle: [Container: PCG_Test] Deleting container.
+[2023.08.30-18.14.48:954][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-18.14.48:958][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-18.14.49:403][782]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.08.30-18.14.49:900][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-18.14.49:900][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.30-18.14.49:902][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.30-18.14.49:915][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.30-18.14.49:935][783]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.08.30-18.14.54:082][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.30-18.14.54:840][230]LogSlate: Window 'Save Content' being destroyed
+[2023.08.30-18.14.54:850][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-18.14.54:906][230]LogSavePackage: Moving output files for package: /Game/Procedural_Maps/PCG/PCG_Base
+[2023.08.30-18.14.54:906][230]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/PCG_Base27AEDE8B40EC814B8815A8B43F3E2882.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/Procedural_Maps/PCG/PCG_Base.uasset'
+[2023.08.30-18.14.54:908][230]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/SQ/TT6170ZJ8MJT11UBM916OA
+[2023.08.30-18.14.54:908][230]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/TT6170ZJ8MJT11UBM916OA7BDA15F54E1EAB2DC7EE02A419B57469.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/SQ/TT6170ZJ8MJT11UBM916OA.uasset'
+[2023.08.30-18.14.54:921][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.06 sec)
+[2023.08.30-18.14.54:925][230]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.30-18.14.54:925][230]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PlayerStart_UAID_D8BBC15792D26FA401_1245068879
+[2023.08.30-18.14.54:925][230]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.15.06:296][979]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.15.06:297][979]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.15.06:298][979]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_0
+[2023.08.30-18.15.06:307][979]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_0
+[2023.08.30-18.15.08:050][161]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.15.08:050][161]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.15.08:050][161]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_UAID_D8BBC15792D26FA401_1275532881
+[2023.08.30-18.15.08:052][161]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_UAID_D8BBC15792D26FA401_1275532881
