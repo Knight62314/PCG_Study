@@ -1970,3 +1970,159 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.08.30-18.15.08:050][161]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
 [2023.08.30-18.15.08:050][161]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_UAID_D8BBC15792D26FA401_1275532881
 [2023.08.30-18.15.08:052][161]LogActorFactory: Actor Factory spawned PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base as actor: PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_UAID_D8BBC15792D26FA401_1275532881
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000002)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.37:048][638]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.40:812][960]LogViewport: Scene viewport resized to 977x942, mode Windowed.
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.53:198][294]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_-1 - DefaultInputNode]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-2_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-2_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.15.54:997][424]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:112][175]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:113][175]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:113][175]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:113][175]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.02:113][175]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.03:351][249]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.07:334][630]LogAssetEditorSubsystem: Opening Asset editor for PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.16.07:334][630]LogPCGEditor: Error: Invalid OutputPin for Out
+[2023.08.30-18.16.07:426][630]LogSlate: Took 0.000839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_0 - SurfaceSamplerNode_0]: Executed in (0.000013)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000065)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000012)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000009)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000011)s and (2) call(s)
+[2023.08.30-18.16.34:946][925]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:659][357]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:659][357]LogPCG: [PCGPartitionActor_25600_0_-1_0 - DefaultInputNode]: Executed in (0.000002)s and (2) call(s)
+[2023.08.30-18.16.39:659][357]LogPCG: [PCGPartitionActor_25600_0_-1_0 - SurfaceSamplerNode_0]: Executed in (0.000125)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_0_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - DefaultInputNode]: Executed in (0.000002)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - SurfaceSamplerNode_0]: Executed in (0.000074)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_0 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - DefaultInputNode]: Executed in (0.000001)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - SurfaceSamplerNode_0]: Executed in (0.000018)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_0_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - DefaultInputNode]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - SurfaceSamplerNode_0]: Executed in (0.000022)s and (2) call(s)
+[2023.08.30-18.16.39:670][357]LogPCG: [PCGPartitionActor_25600_-1_-1_-1 - Anonymous task]: Executed in (0.000000)s and (2) call(s)
+[2023.08.30-18.16.41:840][535]LogSlate: Window 'PCG_Base' being destroyed
+[2023.08.30-18.16.44:576][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.30-18.16.47:109][826]LogSlate: Window 'Save Content' being destroyed
+[2023.08.30-18.16.47:123][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-18.16.47:196][826]LogSavePackage: Moving output files for package: /Game/Procedural_Maps/PCG/PCG_Base
+[2023.08.30-18.16.47:197][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/PCG_BaseCBD07F3F430A7E2CCD65D98ABEE8D25B.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/Procedural_Maps/PCG/PCG_Base.uasset'
+[2023.08.30-18.16.47:200][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/5I/5EYBKSKG0MO0GQ91Q1ADCK
+[2023.08.30-18.16.47:200][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/5EYBKSKG0MO0GQ91Q1ADCKA4EC15EF4398E8B57AE47CAA670B48D5.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/5I/5EYBKSKG0MO0GQ91Q1ADCK.uasset'
+[2023.08.30-18.16.47:210][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/KS/MOZ3UQY5JJHFD1SPV7BQXB
+[2023.08.30-18.16.47:210][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/MOZ3UQY5JJHFD1SPV7BQXB4786537A493774FC22064B881CF7CFD0.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/A/KS/MOZ3UQY5JJHFD1SPV7BQXB.uasset'
+[2023.08.30-18.16.47:214][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/E/EX/R1MOO9K2L9QK6YFES890Q1
+[2023.08.30-18.16.47:214][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/R1MOO9K2L9QK6YFES890Q1785003624A3C586B5B98FCB935EBC2D9.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/E/EX/R1MOO9K2L9QK6YFES890Q1.uasset'
+[2023.08.30-18.16.47:215][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/CW/CB8X0CCVLOC0V254F7HWHV
+[2023.08.30-18.16.47:216][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/CB8X0CCVLOC0V254F7HWHVBDD677DC4B92F5EC7DC7F3AE8B3AD62F.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/CW/CB8X0CCVLOC0V254F7HWHV.uasset'
+[2023.08.30-18.16.47:218][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/1/JK/4YSKJCECXP7G3472I5U5SB
+[2023.08.30-18.16.47:218][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/4YSKJCECXP7G3472I5U5SB2F2D1FD54E332B30AABA7787B4B1DB77.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/1/JK/4YSKJCECXP7G3472I5U5SB.uasset'
+[2023.08.30-18.16.47:220][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/4/SM/B9FZAC1OABBXP3C0S7I0SU
+[2023.08.30-18.16.47:220][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/B9FZAC1OABBXP3C0S7I0SU28FCF02C45A5E161810B3BA3AF8D857C.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/4/SM/B9FZAC1OABBXP3C0S7I0SU.uasset'
+[2023.08.30-18.16.47:224][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/JO/0I5M4TV5JEJ4PLN7JLSC67
+[2023.08.30-18.16.47:224][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/0I5M4TV5JEJ4PLN7JLSC6767D159764833BA9869CBC28D22F9D4A0.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/JO/0I5M4TV5JEJ4PLN7JLSC67.uasset'
+[2023.08.30-18.16.47:227][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/II/DXF6UWG05KOQTDKHXBFGUK
+[2023.08.30-18.16.47:227][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/DXF6UWG05KOQTDKHXBFGUKA1FC723B4E42F7857A57CF965C9F3728.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/5/II/DXF6UWG05KOQTDKHXBFGUK.uasset'
+[2023.08.30-18.16.47:230][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/E/O6/5C0QDEKQVYITFMD4UNHCFC
+[2023.08.30-18.16.47:230][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/5C0QDEKQVYITFMD4UNHCFC6359378B4D95093DCAC1AD91917EFD86.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/E/O6/5C0QDEKQVYITFMD4UNHCFC.uasset'
+[2023.08.30-18.16.47:232][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/2C/D8RXTUF8GD7LQFNY1VMOV2
+[2023.08.30-18.16.47:232][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/D8RXTUF8GD7LQFNY1VMOV20EA44AB241475D9436DAA7A958840ADF.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/6/2C/D8RXTUF8GD7LQFNY1VMOV2.uasset'
+[2023.08.30-18.16.47:234][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/6A/KF3USA2GDD8JFQKP5FBHBM
+[2023.08.30-18.16.47:234][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/KF3USA2GDD8JFQKP5FBHBM18C65A114F8E2B9B0EF0A6912A279150.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/6A/KF3USA2GDD8JFQKP5FBHBM.uasset'
+[2023.08.30-18.16.47:306][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/44/422NET8YD4G8W44VR7LUEO
+[2023.08.30-18.16.47:306][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/422NET8YD4G8W44VR7LUEO86A686504014D9EB1EB04F8117D73D42.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/B/44/422NET8YD4G8W44VR7LUEO.uasset'
+[2023.08.30-18.16.47:310][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/36/8XGVC3FG19G8U8SPQ9FQ4U
+[2023.08.30-18.16.47:311][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/8XGVC3FG19G8U8SPQ9FQ4U6F258B0243830ADCEC118499B6DB55BA.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/8/36/8XGVC3FG19G8U8SPQ9FQ4U.uasset'
+[2023.08.30-18.16.47:316][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/NM/JXTRJMRURFCX3WZSWEFX19
+[2023.08.30-18.16.47:316][826]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Saved/JXTRJMRURFCX3WZSWEFX199199E6F64F591F30970B41B543CBB8A6.tmp' to '../../../../../../Users/austi/OneDrive/Documents/GitHub/PCG_Study/Procedural/Content/__ExternalActors__/Procedural_Maps/PCG/PCG_Test/D/NM/JXTRJMRURFCX3WZSWEFX19.uasset'
+[2023.08.30-18.16.47:333][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 1.27 sec)
+[2023.08.30-18.16.47:339][826]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/Procedural_Maps/PCG/PCG_Base.PCG_Base
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_-2_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_-2_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_-2_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_-2_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGVolume /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGVolume_UAID_D8BBC15792D26FA401_1275532881
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_0_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_0_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_-1_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_0_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_0_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_0_-1_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_-1_-1
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGPartitionActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGPartitionActor_25600_-1_-1_0
+[2023.08.30-18.16.47:339][826]LogContentValidation: Display: Validating /Script/PCG.PCGWorldActor /Game/Procedural_Maps/PCG/PCG_Test.PCG_Test:PersistentLevel.PCGWorldActor_UAID_D8BBC15792D26FA401_1273779880
